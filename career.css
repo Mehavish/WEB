@@ -1,0 +1,155 @@
+body{
+     background-image: url("career.jpg");
+     background-size: cover;
+}
+.head{
+    height: 450px;
+    background: linear-gradient(to right,#654ea3,#eaafc8);
+    border-radius: 40px;
+    position: relative;
+    top: 30px;
+}
+pre{
+    font-size: 50px;
+    position: relative;
+    bottom: 325px;
+    text-align: center;
+    z-index: 2px;
+}
+#main{
+    font-size: 60px;
+    position: relative;
+    top: 90px;
+    right: 100px;
+    font-family: cursive;
+}
+.text1{
+    font-size: 30px;
+    position: relative;
+    top: 100px;
+    font-family: sans-serif;
+}
+.text2{
+    font-size: 30px;
+    font-family: sans-serif;
+    line-height: 20px;
+    position: relative;
+    text-align: start;
+    bottom: 400px;
+    left: 500px;
+}
+.pic{
+    height: 450px;
+    width: 450px;
+    border-radius: 20px;
+    background-size: cover;
+    background-image: url("a2.jpg");
+    position: relative;
+    top: 90px;
+    border-style: solid;
+}
+#head1{
+    position: relative;
+    bottom: 400px;
+    font-size: 60px;
+    position: relative;
+    font-family: cursive;
+
+}
+.pic2{
+    height: 450px;
+    width: 450px;
+    border-radius: 20px;
+    background-size: cover;
+    background-image: url("t2.jpg");
+    position: relative;
+    bottom: 400px;
+    left: 900px;
+    border-style: solid;
+}
+.text3{
+    font-size: 30px;
+    font-family: sans-serif;
+    line-height: 30px;
+    position: relative;
+    text-align: start;
+    bottom: 750px;
+}
+#head2{
+
+    font-size: 60px;
+    position: relative;
+    bottom: 700px;
+    font-family: cursive;
+}
+.pic3{
+    height: 450px;
+    width: 450px;
+    border-radius: 20px;
+    background-size: cover;
+    background-image: url("r1.jpg");
+    background-position: center;
+    border-style: solid;
+    position: relative;
+    bottom: 650px;
+   
+}
+.text4{
+    font-size: 30px;
+    font-family:sans-serif;
+    line-height: 30px;
+    position: relative;
+    text-align: start;
+    left: 450px;
+    bottom: 1100px;
+}
+#head3{
+    font-size: 60px;
+    position: relative;
+    text-align: center;
+    font-family: cursive;
+    bottom: 900px;
+}
+#box1{
+    height: 500px;
+    width: 500px;
+    border-radius: 20px;
+    border-style: solid;
+    background-image: url("service.jpeg");
+    background-size: cover;
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    bottom: 800px;
+}
+#box2{
+    height: 500px;
+    width: 500px;
+    border-radius: 20px;
+    border-style: solid;
+    background-image: url("service.jpeg");
+    background-size: cover;
+    position: relative;
+    margin-left: 300px;
+    display: inline-block;
+    bottom: 800px;
+}
+#job1{
+    font-size: 20px;
+    color: ivory;
+    text-align: start;
+    position: relative;
+    top: 10px;
+}
+p{
+    font-size: 30px;
+
+}
+#job2
+{
+    font-size: 20px;
+    color: ivory;
+    text-align: start;
+    position: relative;
+    top: 10px;
+}
