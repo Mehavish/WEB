@@ -1,6 +1,6 @@
 body{
     background-size: cover;
-    background-image: url("off.jpg");
+    background-image: url("about back.jpg");
 }
 p{
     font-weight: 300;
@@ -90,37 +90,5 @@ a{
     font-family: initial;
     position: relative;
     bottom: 230px;
-
-}
-#head4{
-    font-weight: 300;
-    font-style: oblique;
-    font-size: 60px;
-    color: black;
-    position: relative;
-    bottom: 200px;
-}
-#cir1{
-    height: 280px;
-    width: 280px;
-    border-radius: 50%;
-    background-color: rgb(150, 149, 149);
-    position: relative;
-    bottom: 150px;
-}
-#cir2{
-    height: 280px;
-    width: 280px;
-    border-radius: 50%;
-    background-color: rgb(150, 149, 149);
-    position: relative;
-    left: 1150px;
-}
-#cir3{
-    height: 280px;
-    width: 280px;
-    border-radius: 50%;
-    background-color: rgb(150, 149, 149);
-    margin-top: 150px;
 
 }
