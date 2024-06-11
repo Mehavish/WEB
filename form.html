@@ -8,30 +8,20 @@
 </head>
 <body>
     <div class = login>
-        <form>
+        <form action="https://formsubmit.co/mehavishammanagi@gmail.com" method="POST">
             <h1> CONTACT US</h1>
             <label> name</label>
-            <input type="text" name="name" placeholder="Enter Names or Team Name">
+            <input type="text" name="name" placeholder="Enter Names or Team Name" required>
             <label>email</label>
             <input type="text" name="email" placeholder="Enter Emails ">
             <label>phone number </label>
-            <input type="text" name="num" placeholder="Enter Your Contact Num ">
+            <input type="text" name="num" placeholder="Enter Your Contact Num " required>
             <label>Message</label>
-            <input type="text" name="text" placeholder="Message ">
+            <input type="text" name="text" placeholder="Message " required>
+            <label>city</label>
+            <input type="text" name="text" placeholder="city name" required>        
             <button type="submit" class="hero-btn red-btn">submit</button>
-        </form> 
-        <form class="comment-form" action="https://api.web3forms.com/submit" method="POST" target="_blank">
-            <input type="hidden" name="access_key" value="1574c4a7-1470-441d-a180-b82209af824e">
-            
-            <input type="text" name="name" placeholder="Enter Names or Team Name">
-            
-            <input type="text" name="email" placeholder="Enter Emails ">
-            <input type="text" name="num" placeholder="Enter Your Contact Num ">
-            <input type="text" name="MSG" placeholder="Message ">
-            
-            <textarea rows="5" name="comment" placeholder="Enter Event Name with small Desciption"></textarea>
-            <button type="submit" class="hero-btn red-btn">SUBMIT</button>
-        </form>
+        </form>        
     </div>
 </body>
 </html>
